@@ -29,6 +29,18 @@ Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas 
 
 💡 Também tenho experiência com Arduino e projetos de extensão técnica.
 
+<div align="center">
+  <a href="https://www.twitch.tv/cecelaaa" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="mailto:marcelacamposm2@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/marcelacamp" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
 ---
 
 <div align="center">
