@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Marcela Campos</h1>
+<h1 align="center"> 🌺 Hi, I'm Marcela Campos</h1>
 <p align="center">
   <em>Versão em português abaixo</em>
 </p>
@@ -16,7 +16,7 @@ Currently working on academic systems and smart tools for real-life scenarios, s
 
 ---
 
-<h1 align="center"> Olá! Eu sou a Marcela Campos</h1>
+<h1 align="center"> 🌺 Olá! Eu sou a Marcela Campos</h1>
 
 Sou estudante de Ciência da Computação, apaixonada por desenvolvimento web, tecnologia e soluções que realmente fazem diferença.  
 Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas para problemas do mundo real, como a gestão de condomínios.
@@ -30,34 +30,6 @@ Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas 
 💡 Também tenho experiência com Arduino e projetos de extensão técnica.
 
 ---
-
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=marcelacamposm&show_icons=true&theme=vue-dark&title_color=ff69b4&hide_border=true&locale=pt-br" width="450" />
-      </td>
-      <td style="vertical-align: bottom; padding-left: 30px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacamposm&layout=compact&hide_border=true" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=marcelacamposm&show_icons=true&theme=vue-dark&title_color=ff69b4&hide_border=true&locale=pt-br" width="450" />
-      </td>
-      <td style="vertical-align: bottom; padding-left: 300px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacamposm&layout=compact&hide_border=true" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <div align="center">
   <div style="display: flex; align-items: flex-end; gap: 30px;">
