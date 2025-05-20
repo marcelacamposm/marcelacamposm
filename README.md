@@ -41,7 +41,7 @@ Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas 
   </a>
 </div>
 
----
+##
 
 <div align="center">
   <div style="display: flex; align-items: flex-end; gap: 30px;">
@@ -49,5 +49,20 @@ Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacamposm&layout=compact&hide_border=true&theme=catppuccin_latte&title_color=1B998B&text_color=2D3047&bg_color=FFDFF7" width="390" />
   </div>
 </div>
+
+##
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+</div>
+
 
 
