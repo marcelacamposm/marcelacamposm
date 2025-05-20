@@ -33,8 +33,8 @@ Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas 
 
 <div align="center">
   <div style="display: flex; align-items: flex-end; gap: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=marcelacamposm&show_icons=true&theme=vue-dark&title_color=ff69b4&hide_border=true&locale=pt-br" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacamposm&layout=compact&hide_border=true" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=marcelacamposm&show_icons=true&theme=catppuccin_latte&hide_border=true&title_color=FF206E&text_color=FFDFF7&icon_color=1B998B&bg_color=2D3047" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacamposm&layout=compact&hide_border=true&theme=catppuccin_latte&title_color=1B998B&text_color=2D3047&icon_color=&bg_color=FFDFF7" width="390" />
   </div>
 </div>
 
