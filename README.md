@@ -3,7 +3,7 @@
   <em>Versão em português abaixo</em>
 </p>
 
-I'm a Brazilian Computer Science student passionate about technology, web development, and meaningful software solutions.  
+I'm a Brazilian Software Engineering student passionate about technology, web development, and meaningful software solutions.  
 Currently working on academic systems and smart tools for real-life scenarios, such as condominium management.
 
 🌱 I’m improving my skills in:
