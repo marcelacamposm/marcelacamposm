@@ -7,8 +7,8 @@ I'm a Brazilian Software Engineering student passionate about technology, web de
 Currently working on academic systems and smart tools for real-life scenarios, such as condominium management.
 
 🌱 I’m improving my skills in:
-- **Frontend**: Angular, HTML, CSS, JavaScript
-- **Backend**: NestJS, Java, C, C++
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Java, C
 - **Databases**: MySQL, SQL
 - **Version control**: Git & GitHub
 
@@ -22,8 +22,8 @@ Sou estudante de Ciência da Computação, apaixonada por desenvolvimento web, t
 Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas para problemas do mundo real, como a gestão de condomínios.
 
 🌱 Estudando e praticando:
-- **Frontend**: Angular, HTML, CSS, JavaScript  
-- **Backend**: NestJS, Java, C, C++  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Java, C
 - **Banco de dados**: MySQL, SQL  
 - **Controle de versão**: Git & GitHub
 
