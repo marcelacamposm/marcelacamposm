@@ -63,5 +63,10 @@ Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas 
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
 
+<div align="center">
+  <br>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5vbDg2ZTc2MW9qb3BkYnJ3dmViMXBhYXFwbHV4cDQzMXFlNzA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/108o2iMGnu4aac/giphy.gif" width="500" />
+  <br>
+</div>
 
 
