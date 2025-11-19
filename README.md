@@ -64,3 +64,6 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5vbDg2ZTc2MW9qb3BkYnJ3dmViMXBhYXFwbHV4cDQzMXFlNzA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/108o2iMGnu4aac/giphy.gif" width="100%" style="max-width: 500px;" />
 </div>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=47fmvg8td263960v75ye9s2xz&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&mode=dark&bar_color=6b7b6b&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=47fmvg8td263960v75ye9s2xz&redirect=true)
