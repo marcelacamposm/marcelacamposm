@@ -1,72 +1,66 @@
-<h1 align="center"> 🌺 Hi, I'm Marcela Campos</h1>
-<p align="center">
-  <em>Versão em português abaixo</em>
+<div align="center">
+  <img src="SEU_GIF_DE_CAPA.gif" width="100%" style="border-radius: 8px;" alt="Cover" />
+</div>
+
+<br>
+
+<h1 align="center" style="font-weight: bold;">
+  Marcela Campos
+</h1>
+
+<p align="center" style="color: #888;">
+  Engenharia de Software • Dados • Produto
 </p>
 
-I'm a Brazilian Software Engineering student passionate about technology, web development, and meaningful software solutions.  
-Currently working on academic systems and smart tools for real-life scenarios, such as condominium management.
+<br>
 
-🌱 I’m improving my skills in:
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Java, C
-- **Databases**: MySQL, SQL
-- **Version control**: Git & GitHub
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  <p>
+    Sou graduanda em <strong>Engenharia de Software</strong> na PUC Minas e Estagiária de Engenharia de Software na <strong>dti digital</strong>.
+  </p>
+  <p>
+    Atualmente, meu foco técnico está em Business Intelligence e Engenharia de Dados, resolvendo problemas complexos em cenários reais. Paralelamente, trago uma visão híbrida: acredito que o código deve servir a uma boa experiência de usuário, por isso estudo constantemente <strong>Design (UX/UI)</strong> e <strong>Gestão de Produto</strong>.
+  </p>
+  <p>
+    Fora do trabalho, sou movida a música (guitarra), livros e jogos.
+  </p>
+</div>
 
-💡 Also experienced in Arduino and technical extension projects.
-
----
-
-<h1 align="center"> 🌺 Olá! Eu sou a Marcela Campos</h1>
-
-Sou estudante de Ciência da Computação, apaixonada por desenvolvimento web, tecnologia e soluções que realmente fazem diferença.  
-Atualmente, desenvolvo sistemas acadêmicos e ferramentas inteligentes voltadas para problemas do mundo real, como a gestão de condomínios.
-
-🌱 Estudando e praticando:
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Java, C
-- **Banco de dados**: MySQL, SQL  
-- **Controle de versão**: Git & GitHub
-
-💡 Também tenho experiência com Arduino e projetos de extensão técnica.
+<br><br>
 
 <div align="center">
-  <a href="https://www.twitch.tv/cecelaaa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  <a href="https://www.linkedin.com/in/marcelacamp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marcelacamposm2@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/marcelacamp" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="LINK_DO_SEU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfólio-FF206E?style=flat-square&logoColor=white" />
   </a>
 </div>
 
-##
+<br>
+<hr style="border-color: #30363d;">
+<br>
 
 <div align="center">
-  <div style="display: flex; align-items: flex-end; gap: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=marcelacamposm&show_icons=true&theme=catppuccin_latte&hide_border=true&title_color=FF206E&text_color=FFDFF7&icon_color=1B998B&bg_color=2D3047" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacamposm&layout=compact&hide_border=true&theme=catppuccin_latte&title_color=1B998B&text_color=2D3047&bg_color=FFDFF7" width="390" />
+  <span style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">Tech Stack & Tools</span>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,git,vscode,arduino,figma,html,css,js&theme=dark" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcelacamposm&show_icons=true&theme=catppuccin_latte&hide_border=true&title_color=FF206E&text_color=FFDFF7&icon_color=1B998B&bg_color=2D3047" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacamposm&layout=donut&hide_border=true&theme=catppuccin_latte&title_color=1B998B&text_color=2D3047&bg_color=FFDFF7" height="160" />
   </div>
 </div>
 
-##
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div>
+<br>
 
 <div align="center">
-  <br>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5vbDg2ZTc2MW9qb3BkYnJ3dmViMXBhYXFwbHV4cDQzMXFlNzA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/108o2iMGnu4aac/giphy.gif" width="500" />
-  <br>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5vbDg2ZTc2MW9qb3BkYnJ3dmViMXBhYXFwbHV4cDQzMXFlNzA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/108o2iMGnu4aac/giphy.gif" width="100%" style="max-width: 500px;" />
 </div>
-
-
