@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="SEU_GIF_DE_CAPA.gif" width="100%" style="border-radius: 8px;" alt="Cover" />
+  <img src="gif.gif" width="100%" style="border-radius: 8px;" alt="Cover" />
 </div>
 
 <br>
 
 <h1 align="center" style="font-weight: bold;">
-  Marcela Campos
+  Marcela Mendes Campos
 </h1>
 
 <p align="center" style="color: #888;">
-  Engenharia de Software • Dados • Produto
+  Engenharia de Software • Dados • Produto • Design • Desenvolvimento
 </p>
 
 <br>
@@ -30,13 +30,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelacamp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marcelacamposm2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="LINK_DO_SEU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfólio-FF206E?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-FF206E?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
