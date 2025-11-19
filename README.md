@@ -21,16 +21,22 @@
     Estudante de <strong>Engenharia de Software</strong> e estagiária na <strong>dti digital</strong>.
   </p>
   <p>
-    Desenvolvo sistemas e hoje atuo com Dados e BI. Gosto de participar do processo de ponta a ponta: do código ao Design e Produto.
+    Desenvolvo sistemas e hoje atuo com <strong>Dados e BI</strong>. <br>
+    Gosto de participar do processo de ponta a ponta: do código ao <strong>Design</strong> e <strong>Produto</strong>.
   </p>
   <p>
-    No meu tempo livre, você vai me encontrar tocando guitarra, lendo ou jogando.
+    🎸 No meu tempo livre, você vai me encontrar tocando guitarra, lendo ou jogando.
   </p>
 </div>
 
 <br>
 
 <div align="center">
+  
+  <p style="font-size: 14px; margin-bottom: 15px;">
+    Se quiser trocar uma ideia ou falar sobre tecnologia, me chama por aqui:
+  </p>
+
   <a href="https://www.linkedin.com/in/marcelacamp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9146FF?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -39,12 +45,16 @@
     <img src="https://img.shields.io/badge/Gmail-2D3047?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.twitch.tv/cecelaaa" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-6441a5?style=flat&logo=twitch&logoColor=white" />
+  <a href="Currículo-MarcelaMendes.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-8A2BE2?style=flat&logo=read-the-docs&logoColor=white" />
   </a>
   &nbsp;
   <a href="LINK_DO_SEU_PORTFOLIO">
     <img src="https://img.shields.io/badge/Portfólio-FF206E?style=flat&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.twitch.tv/cecelaaa" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-6441a5?style=flat&logo=twitch&logoColor=white" />
   </a>
 </div>
 
