@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gif.gif" width="100%" style="border-radius: 8px;" alt="Cover" />
+  <img src="gifgato.gif" width="100%" style="border-radius: 8px;" alt="Cover" />
 </div>
 
 <div align="center">
