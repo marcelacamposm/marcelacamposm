@@ -2,11 +2,11 @@
   <img src="gif.gif" width="100%" style="border-radius: 8px;" alt="Cover" />
 </div>
 
-<br>
-
-<h1 align="center" style="font-weight: bold;">
-  Marcela Mendes Campos
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF206E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Marcela+Campos;" alt="Typing Animation" />
+  </a>
+</div>
 
 <p align="center" style="color: #888;">
   Engenharia de Software • Dados • Produto • Design • Desenvolvimento
